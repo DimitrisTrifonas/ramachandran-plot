@@ -22,3 +22,10 @@ Install dependencies:
 
 ```bash
 pip install biopython matplotlib
+
+##  Usage
+
+From the terminal:
+
+```bash
+python ramachandran_plot.py 1QLX.pdb
